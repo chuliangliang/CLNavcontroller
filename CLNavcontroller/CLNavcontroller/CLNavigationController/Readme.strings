@@ -1,0 +1,26 @@
+/* 
+  Readme.strings
+  DownloadTest
+
+  Created by chuliangliang on 16/6/30.
+  Copyright © 2016年 chuliangliang. All rights reserved.
+*/
+
+/**
+ * 本程序只做技术交流使用,请勿商用谢谢
+ *
+ * 版本: V1.0
+ * 使用技术: 基于UIViewControllerAnimatedTransitioning 协议实现自定义转场动画
+ * 目前功能:
+ *          (1)支持从右至左水平push进入
+ *          (2)支持从左至右水平push进入
+ *          (3)支持顺时针旋转进入
+ *          (3)支持逆时针旋转进入
+ 
+ * 反馈及联系方式:
+ *          QQ:949977202
+ *          Email : chuliangliang300@sina.com
+ * 更多资源 : 
+            1)http://blog.csdn.net/u011205774
+            2)https://github.com/949977202/CLRepository
+ **/
